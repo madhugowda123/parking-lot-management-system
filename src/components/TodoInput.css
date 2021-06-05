@@ -1,0 +1,36 @@
+.hero-image {
+    background-color: lightgray;
+  height:430px;
+    background-position: center;
+    background-repeat: no-repeat;
+  background-size: cover;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    position: relative;
+  }
+  .size
+  {
+  margin:auto;
+    height:250px;
+    width:250px;
+  }
+  
+  .hero-image-booked {
+    background-color: rgb(15, 15, 15);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 230px;
+    width:500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .hero-image-empty {
+    background-color: gray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 230px;
+    width:500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
